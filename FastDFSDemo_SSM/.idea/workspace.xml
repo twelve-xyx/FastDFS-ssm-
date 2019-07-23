@@ -6,171 +6,13 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccd53e5a-db1e-44bd-abca-72cb9752e47f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FastDFSDemo_SSM_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FastDFSDemo_SSM_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_40.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csource_fastdfs_client_java_1_27_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FastDFSDemo_SSM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/controller/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/pojo/HouseInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/service/HouseInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/service/impl/HouseInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itqf/utils/FastDFSUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/client.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dbinfo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.11.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/publishHouse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.fis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.flashonly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.flashonly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.html5only.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.html5only.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.noimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.noimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.nolog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.nolog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.withoutimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/client.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/controller/MyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/mapper/HouseInfoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/mapper/HouseInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/pojo/HouseInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/service/HouseInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/service/impl/HouseInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/com/itqf/utils/FastDFSUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/dbinfo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/classes/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/fastdfs-client-java-1.27-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.40.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/lombok-1.18.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.11.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/js/jquery-1.11.0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/publishHouse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.fis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.flashonly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.flashonly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.html5only.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.html5only.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.noimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.noimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.nolog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.nolog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.withoutimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/FastDFSDemo_SSM-1.0-SNAPSHOT/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext-service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/controller/MyController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/mapper/HouseInfoMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/mapper/HouseInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/pojo/HouseInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/service/HouseInfoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/service/impl/HouseInfoServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/itqf/utils/FastDFSUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dbinfo.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/springmvc-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/test/TestMapper.class" afterDir="false" />
+    <list default="true" id="ccd53e5a-db1e-44bd-abca-72cb9752e47f" name="Default Changelist" comment="练习代码">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itqf/pojo/HouseInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itqf/pojo/HouseInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itqf/service/HouseInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itqf/service/HouseInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itqf/service/impl/HouseInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itqf/service/impl/HouseInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itqf/utils/FastDFSUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itqf/utils/FastDFSUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -185,12 +27,57 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/controller/MyController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1798">
-              <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+            <state relative-caret-position="270">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/pojo/HouseInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/service/impl/HouseInfoServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/service/HouseInfoService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/utils/FastDFSUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -198,7 +85,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/publishHouse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2349">
+            <state relative-caret-position="405">
               <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
@@ -207,25 +94,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/upload.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
+            <state relative-caret-position="1350">
               <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-729">
-              <caret selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-324" />
           </provider>
         </entry>
       </file>
@@ -243,26 +114,15 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/dbinfo.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-290" />
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -270,6 +130,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/client.conf" />
         <option value="$PROJECT_DIR$/src/main/resources/dbinfo.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/itqf/controller/MyController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itqf/pojo/HouseInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itqf/service/impl/HouseInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itqf/service/HouseInfoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/itqf/utils/FastDFSUtils.java" />
       </list>
     </option>
   </component>
@@ -295,8 +160,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="840" />
-    <option name="y" value="2" />
+    <option name="x" value="941" />
     <option name="width" value="1124" />
     <option name="height" value="1048" />
   </component>
@@ -347,21 +211,44 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="itqf" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FastDFSDemo_SSM" type="b2602c69:ProjectViewProjectNode" />
               <item name="FastDFSDemo_SSM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itqf" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FastDFSDemo_SSM" type="b2602c69:ProjectViewProjectNode" />
               <item name="FastDFSDemo_SSM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itqf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastDFSDemo_SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastDFSDemo_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itqf" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FastDFSDemo_SSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FastDFSDemo_SSM" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="itqf" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -509,15 +396,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563800945271</updated>
-      <workItem from="1563800947157" duration="2842000" />
+      <workItem from="1563800947157" duration="4448000" />
     </task>
+    <task id="LOCAL-00001" summary="练习代码">
+      <created>1563864480548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563864480548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2842000" />
+    <option name="totallyTimeSpent" value="4448000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="788" y="2" width="1124" height="1048" extended-state="1" />
+    <frame x="941" y="0" width="1124" height="1048" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -526,26 +431,26 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32896176" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Spring" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50093985" side_tool="true" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32932165" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Messages" weight="0.32932165" />
+      <window_info anchor="bottom" id="Java Enterprise" weight="0.32932165" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32932165" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32932165" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49906015" visible="true" weight="0.32932165" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -560,29 +465,78 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="练习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习代码" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-service.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-729">
+        <state>
           <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-324" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/dbinfo.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/springmvc-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/controller/MyController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290" />
+        <state relative-caret-position="270">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/mapper/HouseInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/pojo/HouseInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/service/impl/HouseInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/service/HouseInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/publishHouse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/upload.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/client.conf">
@@ -595,24 +549,10 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/publishHouse.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/utils/FastDFSUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2349">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/upload.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/itqf/controller/MyController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1798">
-          <caret line="47" column="78" selection-start-line="47" selection-start-column="78" selection-end-line="47" selection-end-column="78" />
+        <state relative-caret-position="378">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

@@ -2,13 +2,7 @@ package com.itqf.utils;
 
 import org.csource.fastdfs.*;
 
-/**
- * @Description:
- * @Company: 千锋互联
- * @Author: 李丽婷
- * @Date: 2019/7/22
- * @Time: 上午11:12
- */
+
 public class FastDFSUtils {
 
     //声明   tracker  storage
